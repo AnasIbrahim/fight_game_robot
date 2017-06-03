@@ -1,4 +1,6 @@
 <launch>
+   <!--node pkg="fight_game_robot" type="bluetooth_HC01_pair" name="bluetooth_HC01_pair"/-->
+
    <node name="base_arm_controller" pkg="ros_arduino_python" type="arduino_node.py" output="screen">
       <rosparam file="$(find fight_game_robot)/params/arduino_params.yaml" command="load" />
    </node>

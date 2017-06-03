@@ -1,0 +1,1 @@
+copy rfcomm.conf to /etc/bluetooth/rfcomm.conf

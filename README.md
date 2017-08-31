@@ -6,3 +6,7 @@ I guess it will be fun, alot of people didn't interact with real robots yet. I s
 
 ![photo of the robot](https://raw.githubusercontent.com/AnasIbrahim/fight_game_robot/master/photos/IMG_20170814_034400.jpg)
 
+Video
+----
+https://youtu.be/hA2DOhpP8A0
+
